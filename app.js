@@ -1,10 +1,12 @@
 const express = require('express');
 const cors = require('cors');
 const usersController = require('./controllers/usersController');
+const { testErrorMiddleware } = require('./middlewares/testErrorMiddleware');
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use(testErrorMiddleware);
 
 app.get('/', (req, res) => {
   res.status(200).json({ data: "Service is running "});
