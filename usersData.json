@@ -8,7 +8,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/0.jpg",
     "about": "Hi there! I'm Park Daugherty, a 35-year-old from Greenland. I work at BUZZWORKS, where I'm passionate about what I do and always strive to exceed expectations. In my free time, I love to spend time with my loved ones and take on new adventures. I'm excited to see what the future holds and what opportunities lie ahead.",
     "latitude": 38.680966,
-    "longitude": -70.369272
+    "longitude": -70.369272,
+    "hobbies": ["yoga", "board games", "video games", "tennis"]
   },
   {
     "id": "b4cbfd96-2a15-419e-ab83-c038493df6d4",
@@ -19,7 +20,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/1.jpg",
     "about": "Meagan is currently employed at ASSISTIX, where she has quickly established herself as a valuable member of the team. Meagan's strong work ethic, attention to detail, and creative problem-solving skills have made her a sought-after colleague. Outside of work, Meagan enjoys exploring her city, trying new foods, and spending time with her friends and family. She is a well-rounded individual who is always looking for new opportunities to grow and learn.",
     "latitude": 39.359043,
-    "longitude": -140.795149
+    "longitude": -140.795149,
+    "hobbies": ["golf", "cooking", "podcasts", "painting"]
   },
   {
     "id": "3797c078-661e-4999-b0d1-8df170982b87",
@@ -30,7 +32,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/2.jpg",
     "about": "I work at Vurbo, where I get to put my skills to the test every day and help drive the company's success. Outside of work, I love to immerse myself in the local culture and take in all that Nepal has to offer. I'm also an avid traveler and enjoy experiencing new sights, sounds, and tastes.",
     "latitude": 32.675183,
-    "longitude": -32.736304
+    "longitude": -32.736304,
+    "hobbies": ["yoga", "golf", "board games", "quilting"]
   },
   {
     "id": "e9729c17-ef88-468d-ad8d-7cd20290edd0",
@@ -41,7 +44,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/3.jpg",
     "about": "Eu do dolor occaecat nulla quis qui. Sint amet dolor nostrud est minim velit aute et. Cupidatat reprehenderit fugiat commodo laboris tempor eu. Reprehenderit incididunt enim nulla qui.\r\n",
     "latitude": -5.083,
-    "longitude": -155.696156
+    "longitude": -155.696156,
+    "hobbies": ["yoga", "reading", "traveling", "fishing"]
   },
   {
     "id": "540823bf-bb5d-4f29-bd45-89644fe4a69e",
@@ -52,7 +56,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/4.jpg",
     "about": "Ex fugiat mollit nisi consequat nostrud mollit dolor ad officia culpa eiusmod reprehenderit ullamco. Velit eu consequat dolore cupidatat excepteur esse qui pariatur adipisicing reprehenderit sunt nisi in. Veniam excepteur cillum proident nostrud minim aliqua ut velit. Duis enim excepteur proident ullamco sint non culpa sunt sit duis. Cupidatat duis veniam enim sint pariatur occaecat id.\r\n",
     "latitude": 72.881335,
-    "longitude": -147.668845
+    "longitude": -147.668845,
+    "hobbies": ["board games", "music", "cooking"]
   },
   {
     "id": "2b174679-c4a4-4cce-8e5a-7fb5ddc5d9e6",
@@ -63,7 +68,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/5.jpg",
     "about": "Sint est incididunt deserunt occaecat quis elit enim in labore. Ipsum dolore ipsum labore sit qui velit adipisicing. Ipsum mollit qui Lorem dolor exercitation excepteur nostrud tempor. Tempor incididunt ipsum anim cupidatat do amet adipisicing ea tempor labore incididunt labore. Velit officia enim amet cillum veniam consequat laboris ea anim pariatur. Sint ex aliquip cillum cillum dolor.\r\n",
     "latitude": 83.304345,
-    "longitude": -104.973509
+    "longitude": -104.973509,
+    "hobbies": ["cooking", "video games"]
   },
   {
     "id": "0c2b5ff7-4905-4d7d-9154-6bfa789bda50",
@@ -74,7 +80,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/6.jpg",
     "about": "Quis sunt irure exercitation veniam aute et proident reprehenderit irure adipisicing esse ad commodo. Anim enim elit dolor excepteur labore id cillum est. Eiusmod laboris adipisicing ad irure enim do sunt. Adipisicing veniam consequat ad sit ut aliquip.\r\n",
     "latitude": 0.040734,
-    "longitude": -165.031747
+    "longitude": -165.031747,
+    "hobbies": ["golf", "podcasts", "music"]
   },
   {
     "id": "df30ff24-1b23-4de6-a075-21740fe77dfb",
@@ -85,7 +92,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/7.jpg",
     "about": "Elit qui velit adipisicing sit ut sunt. Officia aliqua ex irure eu magna nisi minim pariatur proident minim aliquip minim. Id elit consequat nulla et ipsum do pariatur irure. Nisi consectetur mollit ut sit aliqua ea duis enim ullamco sit exercitation veniam.\r\n",
     "latitude": -10.959657,
-    "longitude": -9.708998
+    "longitude": -9.708998,
+    "hobbies": ["dancing", "reading", "podcasts"]
   },
   {
     "id": "2d07834b-29a0-4065-9f42-5e5d5b2c3813",
@@ -96,7 +104,8 @@
     "photo": "https://randomuser.me/api/portraits/lego/8.jpg",
     "about": "Dolor sit nulla ipsum laboris ut tempor minim ad consectetur proident velit nisi occaecat. Laborum commodo veniam aliquip non laboris do fugiat in anim sunt veniam aliqua deserunt. Ipsum fugiat cupidatat laborum mollit nisi veniam cupidatat laborum. Eiusmod fugiat culpa tempor irure do. Labore culpa anim veniam aliquip nostrud in non deserunt minim adipisicing et ad ipsum. Consequat nisi laborum qui id magna ipsum labore. Ipsum Lorem non dolore ea anim ex in mollit mollit qui.\r\n",
     "latitude": 19.605271,
-    "longitude": -106.281246
+    "longitude": -106.281246,
+    "hobbies": ["music", "traveling", "dancing"]
   },
   {
     "id": "e785e5e8-61e1-44a0-a95e-140e01b697bb",
@@ -107,6 +116,7 @@
     "photo": "https://randomuser.me/api/portraits/lego/9.jpg",
     "about": "Voluptate cillum culpa labore ut. Labore nulla consectetur fugiat deserunt excepteur velit deserunt duis proident incididunt voluptate et. Proident qui qui do excepteur consectetur nostrud id nulla excepteur commodo veniam mollit dolor adipisicing. Consequat exercitation enim sint mollit nostrud consequat dolore pariatur magna pariatur. Laboris excepteur voluptate eu ipsum sunt esse dolor elit amet et sunt minim.\r\n",
     "latitude": 83.252308,
-    "longitude": -124.303889
+    "longitude": -124.303889,
+    "hobbies": ["shopping", "cooking", "traveling"]
   }
 ]
